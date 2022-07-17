@@ -1,4 +1,4 @@
-# A-_search Algorithm used to find the shortest path in an ASCII maze.
+# A*_search Algorithm used to find the shortest path in an ASCII maze.
 After compiling and executing the main.cpp file you will get the following output:
 
 🚦   ⛰️   0   0   0   0   
