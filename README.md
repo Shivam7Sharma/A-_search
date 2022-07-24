@@ -21,3 +21,5 @@ ExpandNeighbors Function Test: passed
 ----------------------------------------------------------
 
 Here 🚦 is the start and 🏁  is the end of the path. ⛰️ are the obstacles and 🚗 gives us the shortest path.
+![expand-neighbors](https://user-images.githubusercontent.com/92198336/180644588-21d8dac0-0cbc-4a61-aa41-bbd03fe96452.png)
+
